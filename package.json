@@ -1,0 +1,26 @@
+{
+  "name": "ngProgress-browserify",
+    "version": "1.0.0",
+  "description": "slim, site-wide progressbar for AngularJS",
+  "main": "ngProgress.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hanford/ngProgress.git"
+  },
+  "keywords": [
+    "angular",
+    "ng-progress",
+    "ngProgress",
+    "angular",
+    "progress",
+    "bar"
+  ],
+  "author": "Jack Hanford",
+  "license": "MIT",
+  "readmeFilename": "readme.md",
+  "url": "https://github.com/hanford/ngProgress",
+  "bugs": {
+    "url": "https://github.com/hanford/ngProgress/issues"
+  },
+  "devDependencies": {}
+}
